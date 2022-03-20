@@ -24,6 +24,7 @@ public class MoveToNextLevel : MonoBehaviour
                                                                    last level build index is on your
                                                                    build settings */
             {
+                
                 Debug.Log("You Completed ALL Levels");
                 
                 //Show Win Screen or Somethin.
